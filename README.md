@@ -1,3 +1,7 @@
+https://github.com/novaprime-code/laravel_first_independent_prj_image_gallery/issues/1#issue-1416435764
+<img src="ss1.jpg">
+<img src="ss2.jpg">
+<img src="ss3.jpg">
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
